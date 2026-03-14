@@ -14,8 +14,8 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
-[project.urls]
-"Homepage" = "https://github.com/lakeraai/onnx_clip"
+[tool.poetry.urls]
+Homepage = "https://github.com/lakeraai/onnx_clip"
 
 [tool.poetry.dependencies]
 python = "^3.8"
